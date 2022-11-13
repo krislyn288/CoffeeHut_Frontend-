@@ -1,7 +1,10 @@
 # Nov 12
 - Peppermint Mocha
 - chocolate crossaint
-cd .
+
 
 # Nov 13 
+Sugar Cookies
+Triple Truffle Frappichino
+
 # Nov 14
