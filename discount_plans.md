@@ -1,0 +1,2 @@
+- New version created for every new discount plan 
+- New discount plan for every new user
